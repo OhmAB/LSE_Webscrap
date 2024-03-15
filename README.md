@@ -1,6 +1,8 @@
 ﻿# LSE_Webscrap
  # How to run :
- 1) Click on the link :-
-  https://colab.research.google.com/drive/1qkV46eA9pqanzpK07X9lm2kx7h3yAYUS#scrollTo=iMB4tXKLhZH1
- 2) Run it in Google Colab
- 3) It can also be run in Juypter-Notebook
+ 1) Click on the link to open Google Colab:-
+    https://colab.research.google.com/
+ 2) Create a new Cell.
+ 3) Paste the code.
+ 4) Run it.
+ 5) It can also be run in Juypter-Notebook.
