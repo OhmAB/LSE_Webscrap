@@ -18,7 +18,7 @@ To run the script in local machine, you'll need Python installed on your machine
 - Pandas (`pip install pandas`)
 Once you have Python and the required dependencies installed, clone this repository to your local machine.
 
-### Usage
+## Usage
 The script will scrape the information from the LSE BA History program webpage and display it in a DataFrame.
 You can modify it to scrape data from other undergraduate degree program pages on the LSE website.
 
